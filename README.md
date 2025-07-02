@@ -13,7 +13,7 @@ Este projeto implementa um **dashboard interativo** para monitoramento de métri
 - **Dash:** Framework para construção de aplicações web interativas.
 - **Plotly:** Biblioteca para criação de gráficos interativos.
 - **Speedtest-cli:** Biblioteca para medir o throughput da conexão de internet.
-- **Python (3.x):** Linguagem de programação utilizada.
+- **Python (3.12.3):** Linguagem de programação utilizada.
 - **Threading:** Para coleta paralela de métricas de rede.
 
 ---
