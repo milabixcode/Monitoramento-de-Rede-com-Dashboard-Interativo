@@ -22,7 +22,7 @@ Este projeto implementa um **dashboard interativo** para monitoramento de métri
 
 Para executar o projeto, você precisa de:
 
-- **Python 3.x** instalado no seu sistema.
+- **Python 3.12.3** instalado no seu sistema.
 - Conexão com a internet (para realizar as medições de throughput).
 - Permissões para executar comandos ping (geralmente requer privilégios de root/sudo).
 
